@@ -34,7 +34,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/e3b7503db79885fa13ba8a90a4fa597ff2afce82/Images/GitHub.PNG" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FZ" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="rpi" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="rpi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/e3b7503db79885fa13ba8a90a4fa597ff2afce82/Images/Plex.svg" title="Plex" alt="Plex" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
