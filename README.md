@@ -28,7 +28,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FZ" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/6406e45d49c2be49b0d147927d9c65788626a75f/Images/Delphi.PNG" title="Delphi" alt="delphi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/6406e45d49c2be49b0d147927d9c65788626a75f/Images/Pascal.PNG" title="Pascal" alt="pascal" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
