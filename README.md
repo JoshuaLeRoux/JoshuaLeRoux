@@ -37,4 +37,4 @@
   <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/b0566ae97adcbfa3098cc707f1e6bf4e4d06e3fc/Images/Plex.svg" title="Plex" alt="Plex" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+### :chart_increasing: My Stats :
