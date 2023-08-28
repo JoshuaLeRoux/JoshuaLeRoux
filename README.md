@@ -25,6 +25,8 @@
 
 - :mailbox:How to reach me:
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/6406e45d49c2be49b0d147927d9c65788626a75f/Images/Delphi.PNG" title="Delphi" alt="delphi" width="40" height="40"/>&nbsp;
@@ -37,5 +39,9 @@
   <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/b0566ae97adcbfa3098cc707f1e6bf4e4d06e3fc/Images/Plex.svg" title="Plex" alt="Plex" width="40" height="40"/>
 </div>
 
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoshuaLeRoux&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
