@@ -13,7 +13,7 @@
  <img src="https://komarev.com/ghpvc/?username=JoshuaLeRoux&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  hello there 🖖
+  hello there :vulcan_salute:
 </h1>
 
 ### :man_technologist: About Me :
@@ -38,3 +38,4 @@
 </div>
 
 ### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=JoshuaLeRoux
