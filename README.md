@@ -47,3 +47,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaLeRoux&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+<a href="https://app.daily.dev/joshualeroux"><img src="https://api.daily.dev/devcards/3bce14324aaf4382af0bff5ae6560537.png?r=w7e" width="400" alt="Joshua Le Roux's Dev Card"/></a>
