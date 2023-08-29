@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47xpm8h5ubt6krhhaxhfuq1rk4suuz738asn6px6ng&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/joshua-le-roux-6b509b164">
+  <a href="https://www.linkedin.com/in/joshua-le-roux">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/joshleroux49">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -23,9 +23,7 @@
 
 - :zap: In my free time, I manage my home server. 
 
-- :mailbox:How to reach me: <a href="joshualeroux10.jlr@gmail.com">
-                                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-                            </a>
+- :mailbox:How to reach me: <a href="mailto:joshualeroux10.jlr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
