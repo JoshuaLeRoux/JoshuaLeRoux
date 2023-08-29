@@ -3,15 +3,15 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/joshua-le-roux">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="Joshua Le Roux"/>
   </a>
   <a href="https://twitter.com/joshleroux49">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" title="@joshualeroux49"/>
   </a>
 </div>
-<div>
+<div align="center">
   <a href="mailto:joshualeroux10.jlr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="joshualeroux10.jlr@gmail.com"/>
   </a>
 </div>
 <div align="center">
