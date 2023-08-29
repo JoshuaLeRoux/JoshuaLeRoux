@@ -21,7 +21,7 @@
 
 - :seedling: Learning Delphi, HTML, and SQL.
 
-- :zap: In my free time, I manage my home server. <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/b0566ae97adcbfa3098cc707f1e6bf4e4d06e3fc/Images/Plex.svg" title="Plex" alt="Plex" width="40" height="40"/>
+- :zap: In my free time, I manage my home server. 
 
 - :mailbox:How to reach me:
 
@@ -35,7 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/e3b7503db79885fa13ba8a90a4fa597ff2afce82/Images/GitHub.PNG" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FZ" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="rpi" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="rpi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/b0566ae97adcbfa3098cc707f1e6bf4e4d06e3fc/Images/Plex.svg" title="Plex" alt="Plex" width="40" height="40"/>
 </div>
 
 ---
@@ -47,4 +48,4 @@
 
 ---
 
-<a href="https://app.daily.dev/joshualeroux"><img src="https://api.daily.dev/devcards/3bce14324aaf4382af0bff5ae6560537.png?r=w7e" width="400" alt="Joshua Le Roux's Dev Card"/></a>
+<a href="https://app.daily.dev/joshualeroux"><img src="https://api.daily.dev/devcards/3bce14324aaf4382af0bff5ae6560537.png?r=w7e" width="300" alt="Joshua Le Roux's Dev Card"/></a>
