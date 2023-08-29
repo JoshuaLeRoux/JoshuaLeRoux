@@ -23,7 +23,7 @@
 
 - :zap: In my free time, I manage my home server. 
 
-- :mailbox:How to reach me:
+- :mailbox:How to reach me: <a href="joshualeroux10.jlr@gmail.com">https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white</a>
 
 ---
 
