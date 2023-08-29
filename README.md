@@ -9,6 +9,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div>
+  <a href="mailto:joshualeroux10.jlr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=JoshuaLeRoux&style=flat-square&color=blue" alt=""/>
 </div>
@@ -22,8 +27,6 @@
 - :seedling: Learning Delphi, HTML, and SQL.
 
 - :zap: In my free time, I manage my home server. 
-
-- :mailbox:How to reach me: <a href="mailto:joshualeroux10.jlr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
