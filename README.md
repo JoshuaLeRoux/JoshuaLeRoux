@@ -36,9 +36,10 @@
   <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/6406e45d49c2be49b0d147927d9c65788626a75f/Images/Pascal.PNG" title="Pascal" alt="pascal" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/Images/sql.png" title="SQL" alt="sql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/6406e45d49c2be49b0d147927d9c65788626a75f/Images/sql.png" title="SQL" alt="sql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/e3b7503db79885fa13ba8a90a4fa597ff2afce82/Images/GitHub.PNG" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FZ" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/022044e787bea14778db4fc0f64d6c5543338740/Images/cmd.png" title="CMD" alt="cmd" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows 10" alt="win10" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="rpi" width="40" height="40"/>&nbsp;
