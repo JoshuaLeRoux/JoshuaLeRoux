@@ -55,4 +55,4 @@
 
 ---
 
-<a href="https://app.daily.dev/joshualeroux"><img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/master/devcard.svg" width="400" alt="Joshua Le Roux's Dev Card"/></a>
+<a href="https://app.daily.dev/joshualeroux"><img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/f32d96400b82a73f3f05df86bd69a9cd4f5a1d5c/devcard.svg" width="400" alt="Joshua Le Roux's Dev Card"/></a>
