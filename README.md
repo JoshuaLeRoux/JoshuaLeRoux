@@ -51,14 +51,14 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoshuaLeRoux&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaLeRoux&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats) <a href="https://app.daily.dev/joshualeroux"><img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/f32d96400b82a73f3f05df86bd69a9cd4f5a1d5c/devcard.svg" width="200" alt="Joshua Le Roux's Dev Card"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaLeRoux&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats) <a href="https://app.daily.dev/joshualeroux"><img src="./devcard.svg" width="200" alt="Joshua Le Roux's Dev Card"/></a>
 
 ---
 
 ### :books: Education:
 <div>
   <a href="https://ridgejp.co.za/">
-    <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/09536e615d5739ac40ef64555b8b0365fcddb35b/Images/Schools/Ridge.png" title="Ridge Junior Primary" alt="Ridge" height="140"/>&nbsp;
+    <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/09536e615d5739ac40ef64555b8b0365fcddb35b/Images/Schools/Ridge.png" title="Ridge Junior Primary" alt="Ridge" height="140"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
   </a>
   <a href="https://www.pelham.co.za/">
     <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/09536e615d5739ac40ef64555b8b0365fcddb35b/Images/Schools/Pelham.png" title="Pelham Senior Primary" alt="Pelham" height="140"/>&nbsp;
