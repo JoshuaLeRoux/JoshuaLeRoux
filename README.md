@@ -66,11 +66,9 @@
   <a href="https://maritzburgcollege.co.za/">
     <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/09536e615d5739ac40ef64555b8b0365fcddb35b/Images/Schools/College.png" title="Maritzburg College" alt="College" height="160"/>
   </a>
-<!---
 <a href="https://www.unisa.ac.za/">
     <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/09536e615d5739ac40ef64555b8b0365fcddb35b/Images/Schools/UNISA.png" title="UNISA" alt="UNISA" height="160"/>
 </a>
--->
 </div>
 
 ---
