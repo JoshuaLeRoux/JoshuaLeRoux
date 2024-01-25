@@ -58,16 +58,16 @@
 ### :books: Education:
 <div>
   <a href="https://ridgejp.co.za/">
-    <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/09536e615d5739ac40ef64555b8b0365fcddb35b/Images/Schools/Ridge.png" title="Ridge Junior Primary" alt="Ridge" height="140"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
+    <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/main/Images/Schools/Ridge.png" title="Ridge Junior Primary" alt="Ridge" height="140"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
   </a>
   <a href="https://www.pelham.co.za/">
-    <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/09536e615d5739ac40ef64555b8b0365fcddb35b/Images/Schools/Pelham.png" title="Pelham Senior Primary" alt="Pelham" height="140"/>&nbsp;
+    <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/main/Images/Schools/Pelham.png" title="Pelham Senior Primary" alt="Pelham" height="140"/>&nbsp;
   </a>
   <a href="https://maritzburgcollege.co.za/">
-    <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/09536e615d5739ac40ef64555b8b0365fcddb35b/Images/Schools/College.png" title="Maritzburg College" alt="College" height="160"/>
+    <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/main/Images/Schools/College.png" title="Maritzburg College" alt="College" height="160"/>
   </a>
 <a href="https://www.unisa.ac.za/">
-    <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/09536e615d5739ac40ef64555b8b0365fcddb35b/Images/Schools/UNISA.png" title="UNISA" alt="UNISA" height="160"/>
+    <img src="https://github.com/JoshuaLeRoux/JoshuaLeRoux/blob/main/Images/Schools/UNISA.png" title="UNISA" alt="UNISA" height="160"/>
 </a>
 </div>
 
